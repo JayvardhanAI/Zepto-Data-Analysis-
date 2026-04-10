@@ -123,6 +123,8 @@ FROM zepto_v2_utf8
 GROUP BY category
 ORDER BY total_inventory_weight DESC; 
 
+-- Code is on master branch
+
 
 
 
